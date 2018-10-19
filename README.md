@@ -1,4 +1,5 @@
-# knobby
+![](knobby.png)
+
 🧝‍♀️ remappable volume hotkeys
 
 ## Usage
