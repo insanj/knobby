@@ -1,7 +1,5 @@
 ![](knobby.png)
 
-🧝‍♀️ remappable volume hotkeys
-
 ## Usage
 
 - Install [AutoHotkey](https://github.com/Lexikos/AutoHotkey_L/releases)
